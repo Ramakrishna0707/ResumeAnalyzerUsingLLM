@@ -1,0 +1,8 @@
+PyPDF2
+langchain
+openai
+streamlit
+python-dotenv
+langchain-openai
+python-docx
+fpdf
